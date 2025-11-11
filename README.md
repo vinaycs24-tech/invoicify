@@ -64,5 +64,5 @@ Invoicify is a professional and customizable invoice generator app that allows u
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/invoicify.git
+   git clone https://github.com/vinaycs24-tech/invoicify.git
    cd invoicify
